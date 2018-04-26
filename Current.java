@@ -25,7 +25,7 @@ public class Current {
         }
         else if(check.equals("n"))
         {
-            System.out.println("Does not change the Dose ! ");
+            System.out.println("Continue as Before ! ");
         }
         
     }
