@@ -19,7 +19,7 @@ public class Current {
         System.out.println("Are you Change the Dose ?? \nPress.. Yes-->y or No-->n !");
         check=scan.nextLine();
         if(check.equals("y")){
-            System.out.println("Enter the new Dose : ");
+            System.out.println("Please Enter the new Dose : ");
             dose=scan.nextLine();
             
         }
