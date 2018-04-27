@@ -19,7 +19,7 @@ public class Formulary {
 	        checkdrug=scan.nextLine();
 		    if(drugList.contains(checkdrug)==true)
 	        {
-	        	System.out.println("Drug is exist in the Druglist.");
+	        	System.out.println("Your Enterd Drug is exist in the drug list.");
 	        }
 		    else
 	        {
