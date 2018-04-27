@@ -17,10 +17,12 @@ public class New {
     public void druglist()
     {
       
-        drugList.add("Seclo");
-        drugList.add("Beklo");
-        drugList.add("Napa");
-        drugList.add("Perasitamol");
+        drugList.add("kotisol");
+        drugList.add("Clofenak");
+        drugList.add("Etisen");
+        drugList.add("Betninal");
+        drugList.add("Bejofil");
+        drugList.add("Telucast");
         System.out.println(drugList);
     }
     public void printDrugList()
