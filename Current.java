@@ -25,7 +25,7 @@ public class Current {
         }
         else if(check.equals("n"))
         {
-            System.out.println("Continue as Before ! ");
+            System.out.println("Does not need to change ! ");
         }
         
     }
