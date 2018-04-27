@@ -27,11 +27,7 @@ public class Main {
         	System.out.println("\nFor New Medication  : ");
             neww.druglist();
         }
-        else if(n==2)
-        {
-        	System.out.println("\nFor Formulary  : ");
-        	formulary.druglist();
-        }
+        
     }
     
 
