@@ -17,10 +17,7 @@ public class Formulary {
 	        drugList.add("disprin");
 	         System.out.println("Please Enter the drug name to be search : ");
 	        checkdrug=scan.nextLine();
-		    if(drugList.contains(checkdrug)==true)
-	        {
-	        	System.out.println("Your Enterd Drug is exist in the drug list.");
-	        }
+		    
 		    else
 	        {
 	        	System.out.println("Drug does not exist in the Druglist.");
