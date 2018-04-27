@@ -8,10 +8,10 @@ public class Formulary {
 	    public void druglist()
 	    {
 	      
-	        drugList.add("Seclo");
-	        drugList.add("Beklo");
-	        drugList.add("Napa");
-	        drugList.add("Perasitamol");
+	        drugList.add("Duralux");
+	        drugList.add("histasin");
+	        drugList.add("Tusca");
+	        drugList.add("disprin");
 	        System.out.println(drugList);
 	    }
 	    public void printDrugList()
