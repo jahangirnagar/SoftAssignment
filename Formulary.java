@@ -21,6 +21,10 @@ public class Formulary {
 	        {
 	        	System.out.println("Drug is exist in the Druglist.");
 	        }
+		    else
+	        {
+	        	System.out.println("Drug does not exist in the Druglist.");
+	        }
 	    }
 	    public void printDrugList()
 	    {
