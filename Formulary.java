@@ -18,10 +18,7 @@ public class Formulary {
 	         System.out.println("Please Enter the drug name to be search : ");
 	        checkdrug=scan.nextLine();
 		    
-		    else
-	        {
-	        	System.out.println("Drug does not exist in the Druglist.");
-	        }
+		  
 	    }
 	    public void printDrugList()
 	    {
