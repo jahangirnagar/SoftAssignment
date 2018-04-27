@@ -18,5 +18,10 @@ public class Formulary {
 	    {
 	        System.out.println("This ios new Druglist "+drugList);
 	    }
+	public void priltList()
+	{
+		System.out.println("This ios new Druglist "+drugList);
+	}
+	
 
 }
