@@ -31,6 +31,6 @@ public class Current {
     }
     public void printDose()
     {
-        System.out.println("Current Dose is : "+dose);
+        System.out.println("So Your Current Dose : "+dose);
     }
 }
