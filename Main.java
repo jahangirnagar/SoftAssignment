@@ -33,6 +33,10 @@ public class Main {
         	System.out.println("\nFor Formulary  : ");
         	formulary.druglist();
         }
+	     else if(n==4)
+        {
+        	System.exit(0);
+        }
         
     }
     
