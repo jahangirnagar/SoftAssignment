@@ -15,7 +15,8 @@ public class Formulary {
 	        drugList.add("histasin");
 	        drugList.add("Tusca");
 	        drugList.add("disprin");
-	        System.out.println(drugList);
+	         System.out.println("Enter the drug name to search : ");
+	        checkdrug=scan.nextLine();
 	    }
 	    public void printDrugList()
 	    {
