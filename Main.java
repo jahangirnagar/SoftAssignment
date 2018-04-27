@@ -19,6 +19,7 @@ public class Main {
         n=scan.nextInt();
         if (n==1)
         {
+	    System.out.println("\nFor Current Medication  : ");
             current.checkDose();
             current.printDose();
         }
