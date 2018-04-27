@@ -27,6 +27,7 @@ public class New {
     }
     public void printDrugList()
     {
+        System.out.println("Drug List is : ");
         System.out.println(drugList);
     }
     
