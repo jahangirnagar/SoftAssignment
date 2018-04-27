@@ -24,6 +24,16 @@ public class New {
         drugList.add("Bejofil");
         drugList.add("Telucast");
         System.out.println(drugList);
+           System.out.println("Enter the drug name to search : ");
+	        checkdrug=scan.nextLine();
+	        if(drugList.contains(checkdrug)==true)
+	        {
+	        	System.out.println("Drug is exist in the Druglist.");
+	        }
+	        else
+	        {
+	        	System.out.println("Drug does not exist in the Druglist.");
+	        }
     }
     public void printDrugList()
     {
